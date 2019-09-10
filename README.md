@@ -39,6 +39,17 @@ Winners!!
 #3 name
 
 
+LOGIC
+We can use a structure then we just arrenge the score, if we use the follow struct
+
+     struct people {
+          string name;
+          double score;
+     }
+
+then we can use the STL library in order to arrange those structres.
+
+
 DATATYPE
 The surfers' score can be float/double
 
