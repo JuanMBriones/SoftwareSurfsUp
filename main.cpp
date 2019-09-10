@@ -4,7 +4,7 @@ using namespace std;
 
 struct people {
     string name;
-    int score;
+    double score;
 };
 
 bool acompare(people lhs, people rhs) { return lhs.score > rhs.score; }
