@@ -1,0 +1,7 @@
+Jose 1
+Marco 1
+Chuy 0
+Vec 9
+Sasa 4
+Sebas 6
+Alex 7
